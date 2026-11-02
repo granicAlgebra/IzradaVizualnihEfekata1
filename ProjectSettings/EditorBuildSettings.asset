@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/VFX_lab.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Vjezbe/V1_Lab/Scenes/VFX_Lab_V1.unity
+    guid: 8f97e72cbd88c2b4399f063a0b45428b
+  - enabled: 1
+    path: Assets/Vjezbe/V2_Cestice/Scenes/VFX_Lab_V2.unity
+    guid: 4aefd5e38b94d4445825a5102ce165d1
+  - enabled: 1
+    path: Assets/Vjezbe/V3_Noise_Flipbook/Scenes/VFX_Lab_V3.unity
+    guid: 2cf746d28b2396145bcfad432cf28962
+  - enabled: 1
+    path: Assets/Vjezbe/V4_Teksture/Scenes/VFX_Lab_V4.unity
+    guid: 1031fb4a831d51e40b16918da90eb5b0
+  - enabled: 1
+    path: Assets/Vjezbe/V5_ShaderGraph/Scenes/VFX_Lab_V5.unity
+    guid: f2c2571e3efce8546be9cdb05a85c508
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
