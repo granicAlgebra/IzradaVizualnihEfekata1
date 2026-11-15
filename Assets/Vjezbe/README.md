@@ -11,5 +11,6 @@ Svaka vjezba moze koristiti assete iz prethodnih (kao i studenti).
 | V3 | V3_Noise_Flipbook/Scenes/VFX_Lab_V3 | VFX_Udar_V3 (Noise na dimu, Fireball flipbook, Trails, Iskre_Raspad sub-emitter), VFX_Udar_V3_Referenca; V3_Demo_Tragovi: Trail Renderer (Kruzi.cs) i Line Renderer (munja) |
 | V4 | V4_Teksture/Scenes/VFX_Lab_V4 | sRGB rampa ON/OFF, usporedba flipbookova 2x2 / 4x4 / 4x4 256px / 8x8, T_Maske_RGB po kanalima (VFX1_MaskaKanal.shader), VFX_Udar_V4 (Bljesak s T_Odsjaj), VFX_Udar_Stil_V4 (Udarni_Val_Puf, T_Puf_Stil 4x2) |
 | V5 | V5_ShaderGraph/Scenes/VFX_Lab_V5 | SG_Magija + M_Magija na quadu i na cesticama (VFX_Magija) |
+| V6 | V6_Dissolve_Fresnel/Scenes/VFX_Lab_V6 | SG_Vjezbalica (Step/Smoothstep/One Minus/Remap), SG_Dissolve (Lit, Alpha Clip) s M_Dissolve_Teleport i M_Dissolve_Izgaranje + PingPongSvojstvo.cs, SG_Stit (Fresnel + vertex val), SG_Portal (polarne koordinate) |
 
 `Assets/_Arhiva/` - neiskoristene i duplicirane teksture/materijali (mogu se obrisati).

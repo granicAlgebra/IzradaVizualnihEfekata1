@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Vjezbe/V5_ShaderGraph/Scenes/VFX_Lab_V5.unity
     guid: f2c2571e3efce8546be9cdb05a85c508
+  - enabled: 1
+    path: Assets/Vjezbe/V6_Dissolve_Fresnel/Scenes/VFX_Lab_V6.unity
+    guid: 76d528c886f5a7a44a385104e0f6190c
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
