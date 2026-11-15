@@ -12,5 +12,6 @@ Svaka vjezba moze koristiti assete iz prethodnih (kao i studenti).
 | V4 | V4_Teksture/Scenes/VFX_Lab_V4 | sRGB rampa ON/OFF, usporedba flipbookova 2x2 / 4x4 / 4x4 256px / 8x8, T_Maske_RGB po kanalima (VFX1_MaskaKanal.shader), VFX_Udar_V4 (Bljesak s T_Odsjaj), VFX_Udar_Stil_V4 (Udarni_Val_Puf, T_Puf_Stil 4x2) |
 | V5 | V5_ShaderGraph/Scenes/VFX_Lab_V5 | SG_Magija + M_Magija na quadu i na cesticama (VFX_Magija) |
 | V6 | V6_Dissolve_Fresnel/Scenes/VFX_Lab_V6 | SG_Vjezbalica (Step/Smoothstep/One Minus/Remap), SG_Dissolve (Lit, Alpha Clip) s M_Dissolve_Teleport i M_Dissolve_Izgaranje + PingPongSvojstvo.cs, SG_Stit (Fresnel + vertex val), SG_Portal (polarne koordinate) |
+| V7 | V7_Dubina_Distorzija/Scenes/VFX_Lab_V7 | Soft Particles OFF/ON (VFX_Dim_Test, M_Dim_Soft), SG_Presjek (sfera u podu), SG_Distorzija + VFX_Udarni_Val ispred T_Mreza, SG_Magija_V7 + VFX_Magija_V7 (StableRandom.x u UV0.z), VFX_Udar_V7 (soft dim + Udarni_Val) |
 
 `Assets/_Arhiva/` - neiskoristene i duplicirane teksture/materijali (mogu se obrisati).
