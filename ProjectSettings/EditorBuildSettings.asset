@@ -26,6 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Vjezbe/V7_Dubina_Distorzija/Scenes/VFX_Lab_V7.unity
     guid: a4461264daa21724d9f66f06b019ab00
+  - enabled: 1
+    path: Assets/Vjezbe/V8_VFXGraph/Scenes/VFX_Lab_V8.unity
+    guid: d6e8111ca4470cf44a52eece514390bf
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

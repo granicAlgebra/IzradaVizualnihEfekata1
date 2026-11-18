@@ -13,5 +13,6 @@ Svaka vjezba moze koristiti assete iz prethodnih (kao i studenti).
 | V5 | V5_ShaderGraph/Scenes/VFX_Lab_V5 | SG_Magija + M_Magija na quadu i na cesticama (VFX_Magija) |
 | V6 | V6_Dissolve_Fresnel/Scenes/VFX_Lab_V6 | SG_Vjezbalica (Step/Smoothstep/One Minus/Remap), SG_Dissolve (Lit, Alpha Clip) s M_Dissolve_Teleport i M_Dissolve_Izgaranje + PingPongSvojstvo.cs, SG_Stit (Fresnel + vertex val), SG_Portal (polarne koordinate) |
 | V7 | V7_Dubina_Distorzija/Scenes/VFX_Lab_V7 | Soft Particles OFF/ON (VFX_Dim_Test, M_Dim_Soft), SG_Presjek (sfera u podu), SG_Distorzija + VFX_Udarni_Val ispred T_Mreza, SG_Magija_V7 + VFX_Magija_V7 (StableRandom.x u UV0.z), VFX_Udar_V7 (soft dim + Udarni_Val) |
+| V8 | V8_VFXGraph/Scenes/VFX_Lab_V8 | VFX Graph (paket com.unity.visualeffectgraph): VFX_Roj_Iskri (2000/s, exposed Broj Iskri / Boja Iskri / Snaga Turbulencije) vs PS_Roj_Iskri (CPU), VFX_Udar_GPU (burst 3000, Collide with Plane, Orient Along Velocity), VFX_Udar_V8 hibrid (PS udar + Iskre_GPU, PonavljajUdar.cs), dodatak: VFX_Energetska_Kugla (Conform to Sphere + Turbulence), VFX_Roj_Magija (SG_Magija_VFX, Support VFX Graph, ParticleColor/ParticleAlpha iz atributa) |
 
 `Assets/_Arhiva/` - neiskoristene i duplicirane teksture/materijali (mogu se obrisati).
